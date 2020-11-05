@@ -2,4 +2,7 @@
 /vendor
 *.log
 .env
-*.gitignore
+*.gitignore.
+*.md
+
+s
