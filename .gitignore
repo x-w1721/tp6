@@ -1,5 +1,5 @@
 /.idea
-
-            /vendor
-            *.log
-            .env
+/vendor
+*.log
+.env
+*.gitignore
